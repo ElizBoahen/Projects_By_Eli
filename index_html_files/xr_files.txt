@@ -4,3 +4,9 @@ index_html_files/1.png
 index_html_files/1@2x.png
 index_html_files/3.png
 index_html_files/3@2x.png
+index_html_files/11.png
+index_html_files/11@2x.png
+index_html_files/8.png
+index_html_files/8@2x.png
+index_html_files/12.png
+index_html_files/12@2x.png
