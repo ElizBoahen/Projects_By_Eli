@@ -3,8 +3,12 @@ June 17th 2020
 
 Hi!
 
-This is mt log for my portfolio.
+This is my log for my portfolio.
 
-Today I made a deleteed a repository. Hopefully this repository won't reroute to the .md file.
+Today I made a deleted a repository. Hopefully this repository won't reroute to the .md file.
+
+Currently, when I go to my site I see a 404 message.
+
+
 ==========================
 
