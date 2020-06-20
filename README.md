@@ -19,8 +19,15 @@ Hi there!
 
 I didn't push my changes from yesterday so I've set a reminder to push all my changes by 10:00pm today. I know that waiting until the site is "perfect" can be tempting, but having my website exist and safely backed-up is more important.
 
+  - Eli
 
+==========================
 
+# June 19th 2020
+
+Another Day!
+
+My goal today is to finish the Drawings page and add my plant-shelf to the site. I feel like the site will be ready to add to LinkedIn once I do that. From there, I need to make and design the Self-Introduction page. I still can't believe this is real really real thing.
 
   - Eli
 
