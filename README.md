@@ -37,7 +37,26 @@ Next Steps:
 - Test all menu options
 - Short Bio for Self-Introduction 
 
-Tomorrow is Sundoay so I want give myself small goals
+Tomorrow is Sunday so I want give myself small goals
+
+  - Eli
+
+==========================
+
+# June 21st 2020
+
+Hi again!
+
+MThis morning I added
+
+The design page was much longer than I expected. Once I started writing about the process of building the plant shelf, I realized how much work I put into the project. I didn't expect to fill an entire page.
+
+
+Next Steps:
+- Create self-intro video
+- Adjust Plant Shelf layout
+- Add Century Gothic font to CSS
+
 
   - Eli
 
