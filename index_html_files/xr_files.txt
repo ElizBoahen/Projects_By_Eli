@@ -111,6 +111,8 @@ index_html_files/178.jpg
 index_html_files/178@2x.jpg
 index_html_files/180.jpg
 index_html_files/180@2x.jpg
+index_html_files/182.png
+index_html_files/182@2x.png
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
