@@ -47,15 +47,12 @@ Tomorrow is Sunday so I want give myself small goals
 
 Hi again!
 
-MThis morning I added
-
-The design page was much longer than I expected. Once I started writing about the process of building the plant shelf, I realized how much work I put into the project. I didn't expect to fill an entire page.
-
+This morning I added a picture to the Photography page and added a watermark. I still need to navigate Copyright and how to protect my images. The watermark really takes away from my pictures :/
 
 Next Steps:
 - Create self-intro video
 - Adjust Plant Shelf layout
-- Add Century Gothic font to CSS
+- Figure out how to copyright my images
 
 
   - Eli
