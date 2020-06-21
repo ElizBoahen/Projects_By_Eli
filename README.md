@@ -49,10 +49,15 @@ Hi again!
 
 This morning I added a picture to the Photography page and added a watermark. I still need to navigate Copyright and how to protect my images. The watermark really takes away from my pictures :/
 
+I adjusted the Design page too. It was a challenge because:
+ - Original margins: on desktop the pages look a bit narrow, on a tablet it looks great, on a phone it looks great
+ - Push information to the edge: On desktop it looks great, on tablet it looks a bit better but still great, on a phone it looks too wide and almost touches the edges of the screen
+In the end, I widened my content just a bit ore than the original format. This also led my to reformat the page ( changing how text and images were anchored, how paragraphs were spaced, etc. ).
+
 Next Steps:
 - Create self-intro video
-- Adjust Plant Shelf layout
 - Figure out how to copyright my images
+- Add 1 photography project / Add Animation section
 
 
   - Eli
