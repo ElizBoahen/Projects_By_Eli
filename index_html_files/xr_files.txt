@@ -4,6 +4,7 @@ portfo_catalo.html
 portfo_drawings.html
 portfo_photography.html
 portfo_design_proj.html
+portfo_design_proj-a.html
 self-introduction.html
 index_html_files/1.png
 index_html_files/1@2x.png
@@ -111,8 +112,8 @@ index_html_files/178.jpg
 index_html_files/178@2x.jpg
 index_html_files/180.jpg
 index_html_files/180@2x.jpg
-index_html_files/182.png
-index_html_files/182@2x.png
+index_html_files/187.jpg
+index_html_files/187@2x.jpg
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
