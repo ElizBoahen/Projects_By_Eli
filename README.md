@@ -23,11 +23,21 @@ I didn't push my changes from yesterday so I've set a reminder to push all my ch
 
 ==========================
 
-# June 19th 2020
+# June 20th 2020
 
 Another Day!
 
 My goal today is to finish the Drawings page and add my plant-shelf to the site. I feel like the site will be ready to add to LinkedIn once I do that. From there, I need to make and design the Self-Introduction page. I still can't believe this is real really real thing.
+
+The design page was much longer than I expected. Once I started writing about the process of building the plant shelf, I realized how much work I put into the project. I didn't expect to fill an entire page.
+
+
+Next Steps:
+- Fix Catalog page
+- Test all menu options
+- Short Bio for Self-Introduction 
+
+Tomorrow is Sundoay so I want give myself small goals
 
   - Eli
 
