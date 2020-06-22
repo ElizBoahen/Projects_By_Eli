@@ -63,3 +63,26 @@ Next Steps:
   - Eli
 
 ==========================
+
+# June 22nd 2020
+
+Good morning!
+
+I realized that the landing page doesn't really give any cues to the user, so today I'm going to add a pop-up the will direct the user to the navbar. This will suffice until can built out the rest of the site.
+
+Ideally, I'd have
+- A Landing page with pictures
+- A gallery for reach section where clicking on the picture takes the user to a description of the project
+- A back to top button on each descriptor page
+- Connect my Medium page
+I'm going to expand on this today. I think my site is at the "Good enough" stage, so now I can dream big and build off of that foundation.
+
+Next Steps:
+- Create self-intro video
+- Figure out how to copyright my images
+- Ideate ideal world portfolio site
+
+
+  - Eli
+
+==========================
