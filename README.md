@@ -79,8 +79,8 @@ I'm going to expand on this today. I think my site is at the "Good enough" stage
 
 Next Steps:
 - Create self-intro video
-- Figure out how to copyright my images
 - Ideate ideal world portfolio site
+- Add video section
 
 
   - Eli
