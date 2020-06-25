@@ -94,9 +94,9 @@ Early day and afternoon,
 Stepping away from Oswald for bit proved to be really helpful. I noticed full blow grammar mistakes I've made and, thanks to feedback, can see what ways I can improve the navigation. 
 
 Next Steps:
-- Make sure all font sizes are at least 14
-- Add reflection page for Oswald
-- Link all pages and push changes
+- Create self-intro video
+- Link to HAWT Video Projects
+- Add more photos
 
 
   - Eli
