@@ -87,7 +87,7 @@ Next Steps:
 
 ==========================
 
-# June 25nd 2020
+# June 25th 2020
 
 Early day and afternoon,
 
@@ -96,6 +96,24 @@ Stepping away from Oswald for bit proved to be really helpful. I noticed full bl
 Next Steps:
 - Create self-intro video
 - Link to HAWT Video Projects
+- Add more photos
+
+
+  - Eli
+
+==========================
+
+# June 28th 2020
+
+It's a very humid afternoon,
+
+I saw a job opening and decided to add some sketches. I thought of one character attribute and ran, creating the 2 characters I'm adding today. This also means I should sort my drawings so the page flows better. I'm shelfing the video for now and moving forward with things that more directly help my portfolio.
+
+I'm really happy that I have this :)
+
+Next Steps:
+- Create pages / sections for each drawing
+- Add Character sketches
 - Add more photos
 
 
