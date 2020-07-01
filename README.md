@@ -120,3 +120,13 @@ Next Steps:
   - Eli
 
 ==========================
+
+# June 30th 2020
+
+I made edits yesterday but I don't think I updated my log. Today I made sure the links worked and I added sections to my bio to show that I'm actively seeking employment.
+- Add 1 Photography project
+
+
+  - Eli
+
+==========================
