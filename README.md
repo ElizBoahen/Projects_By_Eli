@@ -140,7 +140,10 @@ But I think I've been scared to update my portfolio. I got out of the groove of 
 
 
 I worked. It worked. It was just a few updates, but I made them. I hyperlinked some images in my sketch book, added a dash of spice to the landing page, and updated my "About Me" status. I want to do more but I'll stop for now. At least this is a goo sign that I'm exited to do more :)
+- Log Update 2
 
+Note, Don't push after 1am. There will be spelling errors in your commit messages . . .
+That's it for the morning. I may stop by later tonight. If not tomorrow morning again :)
 
   - Eli
 
