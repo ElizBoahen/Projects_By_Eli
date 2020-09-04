@@ -130,12 +130,17 @@ I made edits yesterday but I don't think I updated my log. Today I made sure the
   - Eli
 
 ==========================
+
 # September 4th 2020
 
 I had an internship for 2 months. It became my priority
 
-But I think I've been scared to update my portfolio. I got out of the groove of updating it and now the nervousness I had before has set in. I've gotten a chance--emphasis on "chance"--to talk to cool people and possibly do cool things. It's incredibly scary. Why am I writing this here? Well, this is my log. I put my progress, my ideas, and goals for my portfolio. On the off chance someone reads this: Hi, it's 12.56am and I'm typing this update message. I'm nervous about what's to come, but I'll never know until I try.
+But I think I've been scared to update my portfolio. I got out of the groove of updating it and now the nervousness I had in the beginning has set in. I've gotten a chance--emphasis on "chance"--to talk to cool people and possibly do cool things. It's incredibly scary. Why am I writing this here? Well, this is my log. I put my progress, my ideas, and goals for my portfolio. On the off chance someone reads this: Hi, it's 12.56am and I'm typing this update message. I'm nervous about what's to come, but I'll never know until I try.
 - Log Update 1
+
+
+I worked. It worked. It was just a few updates, but I made them. I hyperlinked some images in my sketch book, added a dash of spice to the landing page, and updated my "About Me" status. I want to do more but I'll stop for now. At least this is a goo sign that I'm exited to do more :)
+
 
   - Eli
 
