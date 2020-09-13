@@ -148,3 +148,13 @@ That's it for the morning. I may stop by later tonight. If not tomorrow morning 
   - Eli
 
 ==========================
+
+
+# September 13th 2020
+
+Okay, Time to experiment with some ideas
+
+Major goals:
+- Remove catalog page
+- Add photography
+- Add more drawings
