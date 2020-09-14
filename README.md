@@ -158,3 +158,20 @@ Major goals:
 - Remove catalog page
 - Add photography
 - Add more drawings
+
+==========================
+
+
+# September 14th 2020
+
+The updates from the 13th didn't happen, so I'm o them today
+
+Currently:
+- Remove catalog page
+- Add photography
+- Add more drawings
+
+Next:
+- Make landing page versatile
+- Add "Short Story" Projects
+- Rename "UX/Ui" to "Creative Tech+"
