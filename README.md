@@ -175,3 +175,17 @@ Next:
 - ~~Make landing page versatile~~
 - Add "Short Story" Projects
 - ~~Rename "UX/Ui" to "Creative Tech+"~~
+
+==========================
+
+
+# September 15th 2020
+
+I thought I was going to bed but I decided not to.
+
+Currently:
+- Adding Proj Osw Video To Landing Page
+
+Next:
+- Clean Up
+- Sleep
