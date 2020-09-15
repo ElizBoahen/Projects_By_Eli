@@ -174,7 +174,7 @@ Currently:
 Next:
 - ~~Make landing page versatile~~
 - Add "Short Story" Projects
-- ~~Rename "UX/Ui" to "Creative Tech+"~~
+- ~~Rename "UX/UI" to "Creative Tech+"~~
 
 ==========================
 
@@ -183,9 +183,7 @@ Next:
 
 I thought I was going to bed but I decided not to.
 
-Currently:
-- Adding Proj Osw Video To Landing Page
+I manage to create a gif of Project Oswald and I added it to the landing page. I realized just how litter color there is to my site; which is what I had intended but I don't know i that's really me or what I feel like I need to express to the artistic / creative world. Point being: The gif helped me scape-goat pushing a 1080p video to GitHub so yeah, good move.
 
-Next:
-- Clean Up
-- Sleep
+I'm going to take a break them come back with fresher eyes.
+
