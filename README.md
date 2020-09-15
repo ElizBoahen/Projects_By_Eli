@@ -164,14 +164,14 @@ Major goals:
 
 # September 14th 2020
 
-The updates from the 13th didn't happen, so I'm o them today
+The updates from the 13th didn't happen, so I'm of them today
 
 Currently:
-~~- Remove catalog page~~
-~~- Add photography~~
-~~- Add more drawings~~
+- ~~Remove catalog page~~
+- ~~Add photography~~
+- ~~Add more drawings~~
 
 Next:
-~~- Make landing page versatile~~
+- ~~Make landing page versatile~~
 - Add "Short Story" Projects
-~~- Rename "UX/Ui" to "Creative Tech+"~~
+- ~~Rename "UX/Ui" to "Creative Tech+"~~
