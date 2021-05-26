@@ -102,8 +102,6 @@ index_html_files/476.jpg
 index_html_files/476@2x.jpg
 index_html_files/477.jpg
 index_html_files/477@2x.jpg
-index_html_files/490.jpg
-index_html_files/490@2x.jpg
 index_html_files/606.jpg
 index_html_files/606@2x.jpg
 index_html_files/623.png
@@ -237,8 +235,8 @@ index_html_files/907.png
 index_html_files/907@2x.png
 index_html_files/908.png
 index_html_files/908@2x.png
-index_html_files/909.jpg
-index_html_files/909@2x.jpg
+index_html_files/927.jpg
+index_html_files/927@2x.jpg
 index_html_files/910.png
 index_html_files/910@2x.png
 index_html_files/918.png
@@ -257,6 +255,8 @@ index_html_files/926.png
 index_html_files/926@2x.png
 index_html_files/927.png
 index_html_files/927@2x.png
+index_html_files/992.jpg
+index_html_files/909@2x.jpg
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
