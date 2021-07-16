@@ -1,5 +1,6 @@
 index_html_files
 index.html
+index-a.html
 about_me.html
 portfo_catalo.html
 portfo_design_projects.html
@@ -12,8 +13,6 @@ portfo_sketchbook.html
 portfo_photography.html
 index_html_files/1.png
 index_html_files/1@2x.png
-index_html_files/31.png
-index_html_files/31@2x.png
 index_html_files/42.png
 index_html_files/42@2x.png
 index_html_files/835.png
@@ -26,8 +25,6 @@ index_html_files/838.png
 index_html_files/838@2x.png
 index_html_files/606.jpg
 index_html_files/606@2x.jpg
-index_html_files/69.jpg
-index_html_files/69@2x.jpg
 index_html_files/70.jpg
 index_html_files/70@2x.jpg
 index_html_files/878.png
@@ -257,6 +254,12 @@ index_html_files/832.png
 index_html_files/832@2x.png
 index_html_files/833.png
 index_html_files/833@2x.png
+index_html_files/1006.png
+index_html_files/1006@2x.png
+index_html_files/1007.jpg
+index_html_files/1007@2x.jpg
+index_html_files/1009.png
+index_html_files/1009@2x.png
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
