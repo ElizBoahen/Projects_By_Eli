@@ -275,6 +275,7 @@ index_html_files/902.png
 index_html_files/902@2x.png
 index_html_files/903.png
 index_html_files/903@2x.png
+index_html_files/1092.png
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
