@@ -139,7 +139,7 @@ But I think I've been scared to update my portfolio. I got out of the groove of 
 - Log Update 1
 
 
-I worked. It worked. It was just a few updates, but I made them. I hyperlinked some images in my sketch book, added a dash of spice to the landing page, and updated my "About Me" status. I want to do more but I'll stop for now. At least this is a goo sign that I'm exited to do more :)
+I worked. It worked. It was just a few updates, but I made them. I hyper-linked some images in my sketch book, added a dash of spice to the landing page, and updated my "About Me" status. I want to do more but I'll stop for now. At least this is a goo sign that I'm exited to do more :)
 - Log Update 2
 
 Note, Don't push after 1am. There will be spelling errors in your commit messages . . .
@@ -189,3 +189,24 @@ I manage to create a gif of Project Oswald and I added it to the landing page. I
 
 I think that's enough for now. I added Proj Osw gifs to the Proj Osw page and changed some words to Courier New.
 - Log Update 3
+
+==========================
+
+
+# August 27th 2021
+
+I realized, after my commit messages started getting progressively longer, that I haven't updated my log!
+
+The past few days have been a redesign of the site. The same light theme except with bolder lines and playful colors sprinkled throughout. There are a lot more animations and pretty much every picture has a drop shadow.
+
+Overall, I wanted to make the site fee less cluttered.
+I drafted this change on some index cards. The Homepage was going to have a completely different design:
+
+A cartoon drawing of myself and either drawings or icons for each of my skills ( ex: Computer screens for front-end dev, VR headset for VR work, etc. ) This way allowing visitors to click on an area and I show at least one project showcasing my knowledge and capabilities.
+
+That all changed when I moved all the homepage content except for the tagline; that's when I realized that my website needed space (and to be decluttered).
+
+An addition form the planning stage that made it to the site is the Recruiter Page.
+I've heard about the limited time used on applicants, so I made a page dedicated to answering the question Recruiters and Hiring Managers may have.
+
+Super proud of where this is going
