@@ -210,3 +210,11 @@ An addition form the planning stage that made it to the site is the Recruiter Pa
 I've heard about the limited time used on applicants, so I made a page dedicated to answering the question Recruiters and Hiring Managers may have.
 
 Super proud of where this is going
+
+
+==========================
+
+
+# September 17th 2021
+
+Fixed a typo today. Saw my file again, and am still shook by ow different my site is now :>
