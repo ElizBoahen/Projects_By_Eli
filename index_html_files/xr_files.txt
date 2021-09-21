@@ -306,7 +306,7 @@ index_html_files/1877.jpg
 index_html_files/1877@2x.jpg
 index_html_files/1878.jpg
 index_html_files/1878@2x.jpg
-index_html_files/2063.png
+index_html_files/1879.png
 index_html_files/1879@2x.png
 index_html_files/1880.png
 index_html_files/1880@2x.png
