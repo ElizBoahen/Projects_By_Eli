@@ -5,6 +5,7 @@ portfo_design_projects.html
 portfo_plant_shelf.html
 portfo_poj_osw_bio.html
 portfo_catalo.html
+bo_wru.html
 portfo_drawings_all.html
 portfo_drawingi.html
 portfo_drawingiii.html
@@ -30,7 +31,6 @@ index_html_files/606@2x.jpg
 index_html_files/1007.jpg
 index_html_files/1007@2x.jpg
 index_html_files/70.jpg
-index_html_files/70@2x.jpg
 index_html_files/1297.png
 index_html_files/1297@2x.png
 index_html_files/1004.jpg
@@ -68,7 +68,6 @@ index_html_files/1359@2x.png
 index_html_files/1127.jpg
 index_html_files/1127@2x.jpg
 index_html_files/1186.jpg
-index_html_files/1186@2x.jpg
 index_html_files/1185.jpg
 index_html_files/1185@2x.jpg
 index_html_files/1184.jpg
@@ -370,6 +369,10 @@ index_html_files/902.png
 index_html_files/902@2x.png
 index_html_files/903.png
 index_html_files/903@2x.png
+index_html_files/70@2x.jpg
+index_html_files/1186@2x.jpg
+index_html_files/2079.png
+index_html_files/2079@2x.png
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
