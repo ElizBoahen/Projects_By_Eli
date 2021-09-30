@@ -218,3 +218,10 @@ Super proud of where this is going
 # September 17th 2021
 
 Fixed a typo today. Saw my file again, and am still shook by ow different my site is now :>
+
+==========================
+
+
+# September 30th 2021
+
+I've been working on a Write-up for the BO project. I want to make something available on my site that I can send to recruiters rather than talking though the Figma file I have.
