@@ -225,3 +225,13 @@ Fixed a typo today. Saw my file again, and am still shook by ow different my sit
 # September 30th 2021
 
 I've been working on a Write-up for the BO project. I want to make something available on my site that I can send to recruiters rather than talking though the Figma file I have.
+
+==========================
+
+
+# October 1st 2021
+
+Been sick the past 2 days but designing always keeps me going. The fact that I couldn't go to my part-time job but when I sit down to work I can process information and create an entire webpage in the span of about an hour, it's wild. I'm really built for this. Anywhoozers, I finished the write-up, but I need to make the images smaller in file size while still high quality.
+
+
+ . . . . Spent the past hour trying to export my site. I knew my photo files were big but in the end it was the actual size of the actuall page that was the issue. Now I need to see what it's like live. Let's go!
