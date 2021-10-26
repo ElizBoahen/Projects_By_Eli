@@ -605,9 +605,6 @@ index_html_files/3733@2x.png
 index_html_files/3574@2x.png
 index_html_files/3506@2x.png
 index_html_files/3653@2x.png
-index_html_files/3762.png
-index_html_files/3762@2x.png
-index_html_files/3763.png
 index_html_files/3765.png
 index_html_files/3765@2x.png
 index_html_files/3766.png
