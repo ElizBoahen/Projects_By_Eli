@@ -671,8 +671,6 @@ index_html_files/3806.jpg
 index_html_files/3806@2x.jpg
 index_html_files/3807.png
 index_html_files/3807@2x.png
-index_html_files/3808.jpg
-index_html_files/3808@2x.jpg
 index_html_files/3810.jpg
 index_html_files/3810@2x.jpg
 index_html_files/3811.jpg
@@ -719,6 +717,10 @@ index_html_files/3838.png
 index_html_files/3838@2x.png
 index_html_files/2606@2x.jpg
 index_html_files/3674@2x.jpg
+index_html_files/3905.jpg
+index_html_files/3905@2x.jpg
+index_html_files/3907.jpg
+index_html_files/3908.jpg
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
