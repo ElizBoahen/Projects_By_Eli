@@ -235,3 +235,17 @@ Been sick the past 2 days but designing always keeps me going. The fact that I c
 
 
  . . . . Spent the past hour trying to export my site. I knew my photo files were big but in the end it was the actual size of the actuall page that was the issue. Now I need to see what it's like live. Let's go!
+
+==========================
+
+
+# November 7th 2021
+
+So . . I didn't push my changes . . from about Thursday.
+
+Notes for the future:
+  1) My Xara file is getting too large.
+    - I may have to delete some pages
+  2) I need to take some time to analyze the code.
+    - This way to cut down on complexity
+    - Also taking time to review how Xara exports code
