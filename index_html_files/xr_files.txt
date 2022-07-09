@@ -155,7 +155,6 @@ index_html_files/902@2x.png
 index_html_files/903.png
 index_html_files/903@2x.png
 index_html_files/3073.png
-index_html_files/3073@2x.png
 index_html_files/2187.png
 index_html_files/2187@2x.png
 index_html_files/4536.png
@@ -420,10 +419,6 @@ index_html_files/1247.jpg
 index_html_files/1247@2x.jpg
 index_html_files/3668.png
 index_html_files/3668@2x.png
-index_html_files/4531.png
-index_html_files/4531@2x.png
-index_html_files/3717.jpg
-index_html_files/3717@2x.jpg
 index_html_files/4516.png
 index_html_files/4516@2x.png
 index_html_files/3549.jpg
@@ -665,8 +660,6 @@ index_html_files/3916.png
 index_html_files/3916@2x.png
 index_html_files/4875.png
 index_html_files/4875@2x.png
-index_html_files/3919.png
-index_html_files/3919@2x.png
 index_html_files/4877.png
 index_html_files/4877@2x.png
 index_html_files/4879.png
@@ -763,6 +756,14 @@ index_html_files/2652.jpg
 index_html_files/2652@2x.jpg
 index_html_files/2654.jpg
 index_html_files/2654@2x.jpg
+index_html_files/4935.jpg
+index_html_files/4935@2x.jpg
+index_html_files/4936.png
+index_html_files/4936@2x.png
+index_html_files/4938.png
+index_html_files/5009.png
+index_html_files/5009@2x.png
+index_html_files/3073@2x.png
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
