@@ -775,7 +775,6 @@ index_html_files/5213.png
 index_html_files/5213@2x.png
 index_html_files/5215.png
 index_html_files/5215@2x.png
-index_html_files/5131@2x.jpg
 index_html_files/5300.jpg
 index_html_files/5300@2x.jpg
 index_html_files/5274.png
@@ -788,6 +787,7 @@ index_html_files/5277.png
 index_html_files/5277@2x.png
 index_html_files/5278.png
 index_html_files/5278@2x.png
+index_html_files/5131@2x.jpg
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
