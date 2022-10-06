@@ -249,3 +249,10 @@ Notes for the future:
   2) I need to take some time to analyze the code.
     - This way to cut down on complexity
     - Also taking time to review how Xara exports code
+
+
+==========================
+
+
+# October 6th 2022
+Updated bocx page with a summary! Added photo and final thoughts.
