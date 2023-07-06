@@ -816,6 +816,8 @@ index_html_files/5800.jpg
 index_html_files/5800@2x.jpg
 index_html_files/5801.jpg
 index_html_files/5801@2x.jpg
+index_html_files/5802.png
+index_html_files/5802@2x.png
 index_html_files/XaraWDGeneratedHTMLfont1.woff
 index_html_files/XaraWDEmbeddedHTMLfont1.eot
 index_html_files/XaraWDGeneratedHTMLfont2.woff
