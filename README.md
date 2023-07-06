@@ -256,3 +256,15 @@ Notes for the future:
 
 # October 6th 2022
 Updated bocx page with a summary! Added photo and final thoughts.
+
+
+==========================
+
+
+# July 6th 2023
+
+The Butler Question is born ( well published online to the general public ). This version has been done since 2022.
+
+Best wishes,
+
+Also, i shold reorder this readme file so the newest notes are at the top.
