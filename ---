@@ -1,0 +1,97 @@
+---
+title: "Eli B | Tutorial 1"
+author: "Eli Boahen"
+desription: "Eli's Walk through Tutorial 1"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+This Tutorial teaches 4 topics: Math, Logical Evaluations, 
+
+## Math ``` +, -, *, / ```
+R can do math. By creating a code block in our markdown file (using 3 of this symbol-> `), we can create mathematical expressions *then* press Crtl + Enter to run the single line of code.
+
+Tip: ``` is the key on the top corner of your keyboard, not ''' which is 3 apostrophes 
+```{r}
+12+2
+```
+
+## Logical Data ```==, >, <, >=, <=```
+R can do logic. Think of a ```TRUE``` or ```FALSE``` question:
+I have 2 apples. Do I have 2 apples?
+```{r}
+2==2
+```
+The line of code above will return ```TRUE```
+
+Now ```>```, ```<```, ```>=```, ```<=``` are all testing for greater than or less than. ```>``` and ```<``` test just for greater than or less than. ```>=``` and ```<=``` are testing if something is greater than *or* equal to another value.
+
+For Example:
+```{r}
+2>2
+2>=2
+```
+The first line of code returns ```FALSE``` because 2 is not greater than 2. But, the 2nd line returns ```TRUE``` because even though 2 is not greater than 2, 2 equals 2.
+
+Tip: We can make blocks of code by sandwiching it between this ` three times, and we can insert code into a sentence using those same symbols around a segment of code ```'''Like this'''```.
+
+## Assigning Variables ```<-```
+On the same wavelength of math, R can assign variables. This is seen in other programming languages too! What's different here--at least for me--is instead of using an equal sign like this ```x=2``` we use this symbol ```<-``` like this
+```{r}
+x<-2
+x
+```
+
+We can build on that to do things like
+```{r}
+x<-2
+y<-x-3
+y
+```
+Or even *more* intricate
+```{r}
+y >= x
+x <- y*y
+x
+y >= x
+y <- y+2
+y
+y >= x
+```
+Tip: This can work without spaces around the ```<-``` but it's recommended to improve readability.
+
+#Vectors ```c()```
+So, variables can store 1 value, or the result of a mathematical expression
+```{r}
+x <- 4
+x
+```
+Vectors store a list of values
+```{r}
+x <- c(2,4,6,8,10)
+x
+```
+
+We can apply Math and logic to these lists too
+Using the Example from Tutorial 1
+```{r}
+scores <- c(14,13,12,15,16,14,15,10,8,12)
+new_scores <- c(13,12,11,9,12,13,15,12,6,14)
+new_scores
+#new_grades variable is calculated by dividing the new scores by 15
+grades <- new_scores/15
+grades
+#multiply new_grades by 100 for clean percentages
+percent_grades <- grades*100
+percent_grades
+#average the two quizzes together into final grades
+avg <- ( percent_grades + ((scores/17)*100) )/2
+avg
+#weight the grades by 5 points
+grade_weighted <- avg + 5
+grade_weighted
+```
+This is the end of Tutorial 1. My name is Eli, and I'm off to Tutorial 2
+
+
+
